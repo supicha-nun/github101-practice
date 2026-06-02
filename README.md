@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| supicha nunthisa | Team 19 | Product manager | https://github.com/SANCHAIE/github101-practice/edit/main/docs/evidence/template.md| - |
+| supicha nunthisa | Team 19 | Product manager | (https://github.com/supicha-nun/github101-practice/blob/main/docs/evidance/67050152-supicha.md)| - |
 
 ---
 
