@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+| supicha nunthisa | Team 19 opsss | product manager | (https://github.com/supicha-nun/github101-practice/blob/main/docs/evidance/67050152-supicha.md) | https://github.com/supicha-nun/github101-practice/blob/main/docs/issues/67050152-supicha.md |
 
 ---
 
